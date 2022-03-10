@@ -1,0 +1,15 @@
+{
+  "name": "patikareactwork1",
+  "version": "1.0.0",
+  "description": "First patika react homework",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Suleyman Dadashov",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
